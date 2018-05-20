@@ -1,0 +1,23 @@
+#!/bin/bash
+# This script is for checking for a blank passphrase. Meaning no passphrase to secure your SSH key.
+# Script must be run as root.
+# Example: sudo ./check-sshkeys
+
+if [ `whoami` != 'root' ]
+then
+  echo "You must be root to check everyones ssh keys!"
+exit
+else
+for s in `cut -d: -f6 /etc/passwd`
+do echo -e "\e[1m User $s \033[0m"
+
+if ls $s/.ssh/id_rsa 2>/dev/null
+        then grep ENCRYPTED $s/.ssh/id_rsa || echo -e "No RSA passphrase"
+        else echo "RSA key not found"
+fi
+if ls $s/.ssh/id_dsa 2>/dev/null
+        then grep ENCRYPTED $s/.ssh/id_dsa || echo -e "No DSA passphrase"
+        else echo "DSA key not found"
+fi
+done
+fi

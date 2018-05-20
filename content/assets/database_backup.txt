@@ -1,0 +1,55 @@
+#!/bin/bash
+# Backup specified MySQL database using the variables provided.
+# ToDo: Adapt script to take command line parameters so we can backup
+#       databases based on that input 
+
+# VARIABLES #
+DBHOST='<database host>'
+DBUSER='<database user>'
+DBPASS='<database password>'
+DBNAME='<database>'
+DBBACKUP=${DBNAME}.sql.`date +%m/%d/%Y`
+ 
+# COLORS #
+cR='E[31;1m'
+cG='E[32;1m'
+cY='E[33;1m'
+
+# FUNCTIONS # 
+function pheader {
+cd ${HOME}
+clear
+tput sgr0
+echo -e "$cG"
+echo '  ________________________________ '
+echo ' |                                |'
+echo ' |    Database Backup Starting    |'
+echo ' |________________________________|'
+echo -e "$cG"
+tput sgr0
+sleep 3
+}
+ 
+function pfooter {
+tput sgr0
+echo -e "$cG"
+echo '  __________________________________ '
+echo ' |                                  |'
+echo ' |    Database Backup Completed     |'
+echo ' |__________________________________|'
+echo -e "$cG"
+tput sgr0
+cd ${OLDPWD}
+}
+ 
+# MAIN # 
+ 
+pheader
+ 
+mysqldump -h DBHOST -u $DBUSER -p$DBPASS $DBNAME | bzip2 > $DBBACKUP.bz2
+
+echo -e "$cG   [ DONE ]"
+ 
+pfooter
+ 
+exit 0

@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "What account number are you migrating zones to? "
+read ACCT
+
+echo "Are you moving to dedicated or Cloud dns? (D/C) "
+read LOCATION
+
+echo "What is the input file to be processed? "
+read FILE
+
+if [ "$LOCATION" = "D" ]
+then
+  grep ^\; $FILE | sed -e 's/\;-----\;/zone_migration /g' -e "s/\;/ $ACCT Rackspace/g"
+else
+  grep ^\; $FILE | sed -e 's/\;-----\;/zone_migration /g' -e "s/\;/ $ACCT RackspaceCloud/g"
+fi

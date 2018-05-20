@@ -1,0 +1,102 @@
+Title: Area Directions
+Category: MUDs
+Date: 2018-05-16
+Tags: waterdeep, mud, wdmud, text gaming
+Summary:
+
+Area Directions (starting at Westbridge Market Square, 6s from local recall):
+
+Four Diamond Dungeon:	13wswd4w;open west;wd  
+Aarakocran City:	10e4s2es2eds4undne5nenu  
+Archnos:		19ws2wnwuwn  
+Archonian Chessboard:	23sw;open west;w3u;enter portal  
+Ardeep Forest:		40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n9e2nwnen  
+Astral Plane:		5n3un6un;open north;n  
+Azouns:			15nwu3n  
+Baldurs Gate:		40e;open east;70es4es;open south;5s2e5s2ese2se2se3sw2sw5sw4sw3sw3sw
+Blackstaff Tower:	40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n6wn2w17n12w8nwu
+Bloodstoner Mansion:	24e6n4ed
+Candlekeep:		40e;open east;70es4es;open south;5s2e5s2ese2se2se3sw2sw5sw4sw3sw8swdw
+Camelot:		13wnd4n
+Castle Black:		40e;open east;70es4es;open south;5s2e5s2ese2se2ses2ese;enter circle;n3e2d6e
+Castle Redsteel:	24e11n14e
+Mists:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n9e2nwne2nwne3n2u2nene3nd2ne2n
+Centaur Village:	10e4s2es2ed2e4nwdw
+Zozo:			40e;open east;5e3nu2eunw2une3d4n
+New Ofcol:		15n5e2n
+undead:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n6wn2w17n4w8n2en3esd
+crystabelle:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n9e2nwnenen;enter well
+tarrasque:18s2ese
+daggerford:40e;open east;67en;open north;4n2w4n2w4n
+darrowmere:19s2w3s4wswsedsedse3uedndenwd7n;open north;n
+demonclan:5s;open down;dedwn5d;open north;n
+descenttohell:23s2w3u;enter portal;2s;open down;5dn;open down;d
+drakyri:15ne2ne4nse3s;enter pool
+drowcity:10e4s2es2ed;open hole;wsd;open down
+dwarvendaycare:10e5n3e
+dwarvenkingdom:10e5n2en
+easternhighway:40e;open east;70es4es;open south;5s2e5s2ese2se2ses2e2s
+elementalcanyon:10e4s2es2eds4und
+elementalshrine:10e4s2es2eds4und5nu
+fanaticstower:7e3nu
+forestofdestruction:15nw2nene4nw4nw3ne3nw
+gnomevillage:14e2sed
+gorge}{34e5sd12w6nue2neu8n3w4ne
+graveyardwestbridge:7es
+graveyardzozo:34e20n
+vector:24e11n18w3nw2nw8nw5n3w18n
+haondor:13w2s
+hilp:11w10n10w
+holygrove:14end
+houseofthemoon:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n6wn2w17n12w9nw2nwu
+icewinddale:17n3wn7w17n;open north;4nwnw3nw2nwnw6nw3nw7nw2nw2n;open north;nw5nw2n;open north;2nw3nw3nwnd2e5nwnwu2wd3w3nw2n3e3s2es3neu
+mahntor:10e4s2es2ed3ne3swse3sd9s2u
+kelvinscairn:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w9nw2n2w3n2w17n3wn7w17n;open north;4nwnw3nw2nwnw6nw3nw7nw2nw2n;open north;nw5nw2n;open north;2nw3nw3nwnd2e5nwnwu2wd3w3nw2n3e3s2es3neuend3nwunueusununeu
+lucullus:24e11n18w3nw2nw8nwn
+longroad:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n2w17n4e2ne5ne3ne2ne5ne3ne3ne3ne
+longsaddle:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n2w17n4e2ne5ne3ne2ne5ne3ne3ne3ne2ne5ne6nw2nwnw2nw4n
+makoucity:34e5sd12w6nu
+magitek:24e11n18w3nw2nw8nw5n3w18n;open north;n3w4n;open west;2ws
+menzoberranzan:40e;open east;70es4es;open south;5s2e5s2ese2se2ses2e2s3eses2e6s2e2sese3sdsuwusws3wsw2sese2ses2e2s6enu5es2es2esen4en2enu2en3e3nenede2n6enenenueueun2enuenu2nwdn2wndnuwnwnu2nenund8esed7e3ne2nunenendn2ene2nen2e5n2u3neune3dnene2n2en2ene14n5e;open down;3d
+mereofdeadmen:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w9nw2n2w3n2w17n3wn7w17n;open north;4nwnw3nw2nwnwn
+mirkwood:12n4end
+mistyforest:40e;open east;67en;open north;4n2wnw
+museum:19ws2w2sws3wn6w;open west;w
+mobfactory:4w6sed
+moogletown:12e2n2ed
+moria:10e6n
+mythdrannor:40e;open east;70es4es;open south;5s2e5s2ese2se2ses2e2s3eses2e6s2e2sese3sdsuwusws3wsw2sese2ses2e2s6enu5es2es2esen4en2enu2en3e3nenede2n6enenenueueun2enuenu2nwdn2wndnuwnwnu2nenund8esed7e3ne2nunenendn2ene2nen2e2n4eu2eueueden3en4ene3n
+beginnings:17sw
+nibelheim:19ws2w2sws3wn3w2neu2es2en
+nirvana:14endn2eu
+northerncrater:10e4s2es2ed3ne4swse3sd4se2s3w5uwnw10unw3n2u
+ogrevillage:10e4s2es2ed3ne2ses4es4e2n
+oldmarsh:19ws2w2sw4s
+oldthalos:10e4swdw
+olympus:16n2u7n;open down;d
+paradiseisland:76en
+pestolencia:15n5e6nen
+pirateship:40e;open east;6e5neu
+pixievillage:40e;open east;70es4es;open south;5s2e5s2ese2se2se3sw2sw5sw4sw3sw8swdwsws6wd
+polaris:10e7nd7n2en
+portllast:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w9nw2n2w3n2w17n3wn7w17n;open north;4nwnw3nw2nwnw6nw3nw7nw2nw2n
+rassalantar:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n2w17n4e2ne5nene
+sworddancer:10e4s2es2ed6n
+ruinsoftru:40e;open east;70es4es;open south;5s2e6s2ese2se2ses2e2s3eses2e6s2e2sese3sdsuwusws3wsw2sese2ses2e2s6enu5es2es2esen4en2enu2en3e3nenede2n6enenenueueun2enuenu2nwdn2wndnuwnwnu2nenund8esed7e3ne2nunenendn2ene2nen2e5n2uw
+sephirothstower:10e4s2es2ed3ne3swse3sd9s2us;open south;8s
+shadowdale:40e;open east;70es4es;open south;5s2e6s2ese2se2ses2e2s3eses2e6s2e2sese3sdsuwusws3wsw2sese2ses2e2s6enu5es2es2esen4en2enu2en3e3nenede2n6enenenueueun2enuenu2nwdn2wndnuwnwnu2nenund8esed7e3ne2nunenendn2ene2nen2e5n2u3neune3dnene2n2en2ene2n
+shadowgrove:19ws2w2sws3wnwn
+shire:11w10n
+stonebow:23sw5s
+stumpbog:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n2w17n4e2ne5nen4ese
+greatpyramid:6swd16e4sde2n3eu
+mistvillage:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2enw6ne2ne2n2e2n2en3end2ne2nd3nesdesw2s2e2dwsed6nen3e
+thrakuu:40e;open east;70es4es;open south;5s2e5s2ese2se2ses2e2s3eses2e6s2e2sese3sdsuwusws3wsw2sese2ses2e2s6enu5es2es2esen4en2enu2en3e3nenede2n6enenenueueun2enuenu2nw
+torregianolocal:24e25nuw
+trollbark:40e;open east;70es4es;open south;5sw2s2w2s
+underdark:5s;open down;dedwn7d;open west;w
+elvenvillage:15nw3nd
+titanvillage:19w2ne2n4wn2w2n2w5s4w7s
+waterdeep:40e;open east;67en;open north;4n2w4n2w3n2e3n3e6n2w3n2w12n5wnwn2w9nw2n2w3n2w
+werewolfisland:15ne2ne4n2wsws
+wyvernstower:10e4s2es2ed8e

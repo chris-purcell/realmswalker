@@ -1,0 +1,23 @@
+#!/bin/bash
+
+LOADER="xterm +ls +sb -bg black -fg white -g 108x54"
+NAMES=`ls /home/username/Waterdeep/*.chr | awk -F/ '{ sub("\.chr",""); print $5 }'`
+
+while :
+do
+clear
+  echo "Select which character you want to play or quit."
+  echo "Enter the name or quit to exit."
+for i in $NAMES
+do
+  echo ${i^}
+done
+  echo ""
+  read arg
+  case $arg in
+    quit) echo "Bye!";
+          exit 1;;
+    $arg) $LOADER -e "tt++ /home/username/Waterdeep/${arg,,}.chr" ;;
+    *) echo "Please select a valid character or quit.";;
+  esac
+  done
